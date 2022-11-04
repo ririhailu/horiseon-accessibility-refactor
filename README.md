@@ -41,7 +41,7 @@ SOFTWARE.
 
 ## Review  
 
-* ririhailu.github.io/horiseon-accessibility-refactor
+* https://ririhailu.github.io/horiseon-accessibility-refactor/ 
 
 * https://github.com/ririhailu/horiseon-accessibility-refactor
 
