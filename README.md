@@ -6,27 +6,10 @@ The purpose of this assignment is to make changes to current site which will imp
 
 I learned different ways to manipulate the images and aligning multiple images to make sure they are within the border. It is important to have semetica HTML formate to give a clear and sharper context. Some of the div labels were changed to header, figure, article and aside accordingly. 
 
-## Review  ******************
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* https://github.com/ririhailu/horiseon-accessibility-refactor
-
-
 ## Installation
 
 The horiseon-accesibility-refactor was first created in repository in GitHub. The repository was cloned into local desktop. The index.html file was created and pushed into repository GitHub. Any changes made to local was added, commited and pushed to reposotory. Any orginial file such as README.md file was pulled into local and push with updated changes into repository in GitHub.  
 
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax: 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```  
 
 ## Credits
 
@@ -56,6 +39,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+## Review  
 
+* ririhailu.github.io/horiseon-accessibility-refactor
+
+* https://github.com/ririhailu/horiseon-accessibility-refactor
 
 
